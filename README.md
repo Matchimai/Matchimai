@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Matchimai 👋
 
-<!--
-**Matchimai/Matchimai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about building Python applications, data analysis, and automation tools. I enjoy solving real-world problems using technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Python
+- Flask
+- SQL Server
+- Data Analysis (Pandas, NumPy)
+- Machine Learning
+- HTML, CSS, JavaScript
+
+---
+
+## 📂 Projects
+
+### 1. House Price Prediction (Machine Learning)
+Developed a machine learning model to predict house prices using Random Forest and SVM algorithms.
+
+Technologies:
+Python, Pandas, Scikit-learn, Matplotlib
+
+---
+
+### 3. Sentiment Analysis
+Python project to analyze text data and classify sentiments as positive, negative, or neutral using NLP techniques.
+
+Technologies:
+Python, NLTK, Scikit-learn, Pandas
+
+---
+
+### 3. Flight Booking App
+A Python and Flask-based web application to search, book, and manage flights with a simple user interface.
+
+Technologies:
+Python, Flask, HTML, CSS, JavaScript
+
+---
+
+### 4. Parking Ticket Extraction
+Python application to extract parking ticket information (plate number, zone, amount) from images or PDFs using OCR.
+
+Technologies:
+Python, pytesseract, OpenCV
+
+---
+
+## 📄 Resume
+Download my resume here:  
+
+
+---
+
+## 📫 Contact
+Email: matchierumporai@gmail.com 
+GitHub: https://github.com/Matchimai
