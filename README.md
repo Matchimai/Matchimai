@@ -51,7 +51,7 @@ Python, pytesseract, OpenCV
 ---
 
 ## 📄 Resume
-Download my resume here:  
+Download my resume here:  https://github.com/Matchimai/RESUME/blob/main/Matchimai_Junior_AI_ML_Engineer_Resume.pdf
 
 
 ---
