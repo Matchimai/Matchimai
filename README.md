@@ -44,6 +44,7 @@ Python, Flask, HTML, CSS, JavaScript
 
 ### 4. Parking Ticket Extraction
 Python application to extract parking ticket information (plate number, zone, amount) from images or PDFs using OCR.
+**Currently in development, work in progress.**
 
 Technologies:
 Python, pytesseract, OpenCV
